@@ -17,7 +17,7 @@ Implementing an AI agent to play Tic-Tac-Toe was an engaging challenge. I explor
 One of the most fascinating projects I worked on involved combining computer vision and natural language processing to create an image captioning AI. By leveraging pre-trained image recognition models and recurrent neural networks, I was able to generate captions for images, bridging the gap between vision and language.
 
 # Task 4: Recommendation System
-I developed a recommendation system that suggests items to users based on their preferences. Leveraging collaborative filtering techniques, the system provided personalized recommendations for books enhancing user experience and engagement.
+I developed a recommendation system that suggests books to users based on their preferences. Leveraging collaborative filtering techniques, the system provided personalized recommendations for books enhancing user experience and engagement.
 
 # Task 5: Face Detection and Recognition
 In this project, I developed an AI application capable of detecting and recognizing faces in images or videos. By utilizing pre-trained face detection models and advanced recognition techniques, such as Siamese networks, the application accurately identified individuals, paving the way for various applications in security and personalization.
